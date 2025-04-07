@@ -45,7 +45,7 @@ This project implements a Prolog-based system for querying airline flight inform
 
 ## **📁 Project Structure**
 - `flight_database.pl`: Main Prolog file containing facts and rules.
-- `project_report`: Contains solutions to the questions
+- `project_report.pdf`: Contains solutions to the questions
 - `README.md`: Project documentation.
 
 ---
